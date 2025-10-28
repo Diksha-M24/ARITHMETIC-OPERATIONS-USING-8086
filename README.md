@@ -64,8 +64,9 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-10-28 at 10 33 00_21e18962](https://github.com/user-attachments/assets/119dddfe-8fbf-4b1b-9051-c524511ed26a)
+![WhatsApp Image 2025-09-21 at 15 06 20_26dd544c](https://github.com/user-attachments/assets/22d0dde6-4892-41c9-8666-201fa546f89f)
 
+---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="662" height="433" alt="Screenshot 2025-09-21 143403" src="https://github.com/user-attachments/assets/b3f2e067-6fa3-4685-8c5a-6ddbcabe8f58" />
@@ -118,9 +119,10 @@ END
 | 2003:32                 |                          |                 
 
 #### Manual Calculations
-![WhatsApp Image 2025-10-28 at 10 33 20_7616ee3b](https://github.com/user-attachments/assets/31f82814-2264-4916-8f60-bd2c965285df)
 
+![WhatsApp Image 2025-09-21 at 15 06 20_f2018dc7](https://github.com/user-attachments/assets/9bb2ce6e-8393-4910-83cc-86ce0669bc9b)
 
+---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -172,9 +174,10 @@ END
 
 
 #### Manual Calculations
-![WhatsApp Image 2025-10-28 at 10 33 36_ecdb8863](https://github.com/user-attachments/assets/9b23052f-af8a-4c8e-bcc6-77fdb392eb8e)
 
+![WhatsApp Image 2025-09-21 at 15 09 21_79f6f068](https://github.com/user-attachments/assets/6fd6893e-c61e-44b1-84ad-8f233dc40885)
 
+---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="627" height="444" alt="Screenshot 2025-09-21 145243" src="https://github.com/user-attachments/assets/ca85eb30-b06c-4500-a468-041e1549c46c" />
@@ -221,9 +224,10 @@ END
 | 2003:11                 | 2007:00                  |                                                                                             
 
 #### Manual Calculations
-![WhatsApp Image 2025-10-28 at 10 33 50_e8ad94cb](https://github.com/user-attachments/assets/09661ebd-0d7c-4807-a9ca-3233b439662e)
 
+![WhatsApp Image 2025-09-21 at 15 09 21_6f8ecb2c](https://github.com/user-attachments/assets/f58946bb-9637-47c6-b644-21a5470f45b7)
 
+---
 ## OUTPUT FROM MASM SOFTWARE
 <img width="645" height="430" alt="Screenshot 2025-09-21 150219" src="https://github.com/user-attachments/assets/8de04198-3de3-48f1-9c44-7554b86d1ef3" />
 
